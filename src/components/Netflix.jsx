@@ -62,8 +62,6 @@ function Netflix() {
           </div>
         </div>
       </section>
-
-
       
     </div>
   );
